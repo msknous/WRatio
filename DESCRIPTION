@@ -1,0 +1,17 @@
+Package: WRatio
+Title: Identify Homogeneity in Small Data Sets using the W-Ratio Test
+Version: 1.0.0
+Authors@R: 
+    person(given = "Michael",
+           family = "Knous",
+           role = c("aut", "cre"),
+           email = "msknous@gmail.com",
+           comment = c(ORCID = "0000-0001-8053-0551"))
+Description: Performs the W-Ratio Test to a fixed and finite data sets of length 3 to 20.  This allows one to determine homogeneity in the values.
+URL: https://www.qualitydigest.com/inside/quality-insider-article/analysis-using-few-data-part-1-060412.html
+License:  GPL (>=3)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: R (>= 2.10)
